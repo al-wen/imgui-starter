@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\main_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alwen\OneDrive\Desktop\Code\CMPM123\imgui-starter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8E0F4564-D8DD-3BB6-B531-1EEC798EA5F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D6C9AD8-ED2A-320E-833B-138F5409E776}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

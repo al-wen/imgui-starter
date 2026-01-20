@@ -1,4 +1,5 @@
 #include "Application.h"
+#include "Logger.h"
 #include "imgui/imgui.h"
 
 namespace ClassGame {
@@ -27,16 +28,12 @@ namespace ClassGame {
             ImGui::DockSpaceOverViewport();
             ImGui::ShowDemoWindow();
 
-            ImGui::Begin("ImGui Log Demo");
-            ImGui::LogButtons();
+            Logger::GetInstance().DrawImGuiConsole();
 
-            if (ImGui::Button("Copy \"Hello, world!\" to clipboard"))
+            if (ImGui::Button("Test Button"))
             {
-                ImGui::LogToClipboard();
-                ImGui::LogText("Hello, world!");
-                ImGui::LogFinish();
+                Logger::GetInstance().LogInfo("Test");
             }
-            ImGui::End();
         }
 
         //

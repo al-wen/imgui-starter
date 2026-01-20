@@ -1,0 +1,15 @@
+[22:09:38.629] [INFO] This is a test info message
+[22:09:38.812] [INFO] This is a test info message
+[22:09:38.995] [INFO] This is a test info message
+[22:09:39.179] [INFO] This is a test info message
+[22:09:39.695] [WARN] This is a test warning message
+[22:09:39.880] [WARN] This is a test warning message
+[22:09:40.059] [WARN] This is a test warning message
+[22:09:40.245] [WARN] This is a test warning message
+[22:09:40.796] [ERROR] This is a test error message
+[22:09:40.963] [ERROR] This is a test error message
+[22:09:41.162] [ERROR] This is a test error message
+[22:09:41.379] [ERROR] This is a test error message
+[22:09:43.279] [INFO] This is a test info message
+[22:09:43.729] [WARN] This is a test warning message
+[22:09:44.278] [ERROR] This is a test error message

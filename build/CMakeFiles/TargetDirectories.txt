@@ -1,0 +1,9 @@
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/Experimental.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/Nightly.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/Continuous.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/demo.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/PACKAGE.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/alwen/OneDrive/Desktop/Code/CMPM123/imgui-starter/build/CMakeFiles/ZERO_CHECK.dir
